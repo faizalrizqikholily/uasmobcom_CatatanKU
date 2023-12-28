@@ -56,6 +56,13 @@ Adapun beberapa fitur yang ada di aplikasi **CatatanKU!** adalah sebagai berikut
   ![DeleteAll](https://github.com/faizalrizqikholily/uasmobcom_CatatanKU/assets/114045138/cbb75bdc-f7be-497f-83b5-5d8ad669ea43)
 
 
+- **Version**
+
+  Fitur berisi informasi nama dan Nim :
+
+  ![Version](https://github.com/faizalrizqikholily/uasmobcom_CatatanKU/assets/114045138/fa07f723-0a91-449c-af42-ca13e7dcfc53)
+
+  
 - **Database**
 
   Berikut adalah tampilan database beserta data yang sudah ada di dalamnya :
