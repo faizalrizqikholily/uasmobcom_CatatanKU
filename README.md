@@ -67,4 +67,4 @@ Adapun beberapa fitur yang ada di aplikasi **CatatanKU!** adalah sebagai berikut
 
   Berikut penjelasan fitur secara mendetail terkait fitur aplikasi **CatatanKU!* :
 
-  [https://youtu.be/d1lhxXC0w74](https://youtu.be/yeD5wVbTXcE?si=aT0gD_xwzxqIOFZX)https://youtu.be/yeD5wVbTXcE?si=aT0gD_xwzxqIOFZX
+  [https://youtu.be/d1lhxXC0w74](https://youtu.be/yeD5wVbTXcE?si=aT0gD_xwzxqIOFZX)
